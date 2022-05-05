@@ -1,4 +1,5 @@
-## Hola! Mi nombre es Yamil Vogl, desarrolador de apps moviles
+## Hola! Mi nombre es Yamil Vogl
+## Profesional con experiencia en dasarrollo de apps nativas android y multiplataforma con flutter
 
 ## Skills
 
