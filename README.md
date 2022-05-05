@@ -1,5 +1,5 @@
-## Hi there
-## I'm a mobile developer
+### Hi there
+### I'm a mobile developer
 
 ## Skills
 
