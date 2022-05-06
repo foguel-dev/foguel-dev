@@ -31,5 +31,7 @@
 </br>
 
 
-## Encuentrame en 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/yamilvogl/) -->
+## Contact with me on
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yamil_Vogl-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/yamilvogl)
+------
+Credit: [Ahmad-shaikh575](https://github.com/Ahmad-shaikh575)
