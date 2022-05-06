@@ -32,9 +32,6 @@
 
 ## Contact with me on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yamil_Vogl-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/yamilvogl)
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-(mailto:yavoor3095@gmail.com)
-
 
 <br/>
 
