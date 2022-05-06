@@ -18,7 +18,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Realm](https://img.shields.io/badge/Realm-07405E?style=for-the-badge&logo=realm&logoColor=white)]()
 [![SQlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
-[![SQlServer](https://img.shields.io/badge/SQLSERVER-07405E?style=for-the-badge&logo=sqlserver&logoColor=white)]()
+[![SQlServer](https://img.shields.io/badge/SQLSERVER-07405E?style=for-the-badge&logo=sql&logoColor=white)]()
 </br>
 
 ### Tools
