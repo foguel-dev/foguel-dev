@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Yamil Vogl 👋</h1>
-<h3 align="center">Android Software Engineer | SDK & Mobile Platform Focus</h3>
+<h3 align="center">Android Software Engineer | Mobile Platform & SDK Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yamilvogl"><img src="https://img.shields.io/badge/LinkedIn-Yamil_Vogl-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" /></a>
